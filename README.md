@@ -46,7 +46,7 @@ No duplicate rows were found.
 
 The cleaned dataset is available at:
 
-`data/cleaned_superstore.csv`
+`cleaned_superstore.csv`
 
 ## Project Structure
 
