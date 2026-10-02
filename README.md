@@ -46,7 +46,7 @@ No duplicate rows were found.
 
 The cleaned dataset is available at:
 
-`cleaned_superstore.csv`
+`data/cleaned_superstore.csv`
 
 ## Project Structure
 
@@ -60,3 +60,42 @@ Sample-Superstore-Data-Cleaning/
 ├── data_cleaning.py
 ├── CHANGELOG.md
 └── README.md
+
+
+
+## Day 2 – Exploratory Data Analysis (EDA)
+
+### Objective
+
+Performed Exploratory Data Analysis on the cleaned Sample Superstore dataset to identify patterns, trends, relationships, and key business insights.
+
+### Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+### Analysis Performed
+
+- Dataset overview and summary statistics
+- Sales distribution analysis
+- Profit outlier analysis
+- Monthly sales trend analysis
+- Sales by category analysis
+- Sales vs Profit relationship analysis
+
+### Key Insights
+
+1. Technology has the highest total sales among the three product categories.
+2. Sales values are right-skewed, with most orders having lower sales and a smaller number of high-value orders.
+3. Sales and Profit show a generally positive relationship, but higher sales do not always result in higher profit.
+
+### Outcome
+
+Completed Exploratory Data Analysis using the cleaned dataset and identified important sales and profitability patterns through statistical analysis and visualizations.
+
+### Day 2 Notebook
+
+[View EDA Notebook](./EDA_Day2.ipynb)
