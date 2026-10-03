@@ -1,0 +1,16 @@
+"Dashboard Guide
+
+Purpose
+This dashboard provides a simple overview of sales performance.
+
+How to Read the Dashboard
+• Total Sales shows the overall sales amount.
+• Total Profit shows the overall profit.
+• Total Orders shows the number of orders.
+• Sales by Category compares sales across product categories.
+• Sales by Region compares sales across different regions.
+• Monthly Sales Trend shows how sales change over time.
+• Use the Region slicer to filter the dashboard by region.
+
+Dashboard Tools
+Excel PivotTables, PivotCharts, and Slicer"
