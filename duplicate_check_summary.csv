@@ -1,0 +1,6 @@
+﻿Metric,Result
+Source file,Sample - Superstore.csv
+Original row count,9994
+Exact full-row duplicate extra occurrences,0
+Rows after exact duplicate removal,9994
+Order ID + Product ID repeated rows for review,16
